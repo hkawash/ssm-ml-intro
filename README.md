@@ -9,3 +9,6 @@
 - [第3回: 回帰モデル](https://colab.research.google.com/drive/1YM15bUxupLwp8eWtUwkf842B0hjkl1_C?usp=sharing)
 - [第4回: 分類モデル](https://colab.research.google.com/drive/1fqCcpF-jVbEg049o2rU2bj3AyjYqnbb-?usp=sharing)
 - [第5回: アンサンブル学習](https://colab.research.google.com/drive/16wuE-qtp1Kmal0crBHqDyfz0j37oUBMz?usp=sharing)
+- 第6回: ニューラルネット
+    - [単純パーセプトロンとscikit-learnによる多層パーセプトロン(MLP)](https://colab.research.google.com/drive/1WiAd9748iAlCuuaM7FL2zCIzcrlvZxSU?usp=sharing)
+    - [PyTorchを用いたMLPによる画像認識](https://colab.research.google.com/drive/1A8S6k4DaWrjrZvPxulzjmmkHmrVwNbED?usp=sharing)
